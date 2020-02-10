@@ -14,6 +14,7 @@ export const BoxWrapper = styled.div`
   position: relative;
   align-items: center;
   flex-wrap: wrap;
+  justify-content: center;
 `;
 
 export const Container = styled.div`
