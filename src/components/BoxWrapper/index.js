@@ -21,7 +21,7 @@ const BoxWrapper = () => {
   };
 
   return (
-    <div className="App">
+    <S.Container>
       <S.PainelName>Pipeline Status</S.PainelName>
       <S.PainelSubtitle>Cuscuz com Shark</S.PainelSubtitle>
       <S.BoxWrapper>
@@ -36,7 +36,7 @@ const BoxWrapper = () => {
         })}
       </S.BoxWrapper>
       <p>Last Time sync: {currentDate}</p>
-    </div>
+    </S.Container>
   );
 };
 
