@@ -12,7 +12,7 @@ https://{organization}.visualstudio.com/{project}/_apis/build/status/{repository
 
 ## Second
 
-You need to create a `file` named "pipelines.js" with the following structure, and add one or more objects:
+You need to create a `file` on `src` folder, named "pipelines.js" with the following structure, and add one or more objects:
 
 ```
 export const pipelines = [
