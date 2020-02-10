@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Pipeline from "../Pipeline";
-import { pipelines } from "../../utilities/pipelines";
+import { pipelines } from "../../pipelines";
 
 import * as S from "./styled";
 
