@@ -10,7 +10,7 @@
 
 # production
 /build
-/src/utilities
+/src/pipelines.js
 
 # misc
 .DS_Store
